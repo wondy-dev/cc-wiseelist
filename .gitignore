@@ -1,0 +1,5 @@
+# 평문/빌드 소스는 배포하지 않음 (암호화 의미 유지)
+content.html
+template.html
+build.js
+node_modules/
